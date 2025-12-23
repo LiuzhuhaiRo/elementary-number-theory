@@ -6,3 +6,6 @@
 /test3.lean
 /test15.lean
 /.Elementary_Number_Theory_joint_with_Jiong_Yang
+
+# MATLAB generated files
+matlab_problems/*.png
